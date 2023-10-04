@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DeepikaKannan
 - Completed my Bachelors degree in Engineering
 - 👀 I’m interested in ...Backend Role 
-- 🌱 I’m currently learning ...JAVA
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently undergoing internship at TopperWorld and CodSoft
+- 💞️ I’m looking to collaborate on Software development 
 
 
 <!---
